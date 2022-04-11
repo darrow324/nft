@@ -2,24 +2,302 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "description": "Pumpin' 4 The Man",
+            "external_url": "https://www.youtube.com/watch?v=MYg3CFVAyP4",
             "image": "https://media.discordapp.net/attachments/933759102876794970/959411431437135962/first_logo_transparent.png",
-            "name": "My NFT 0"
+            "name": "Pumpin' 4 The Man - 0",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Nothing"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Container Size", 
+                  "value": "Big"
+                },
+                {
+                  "trait_type": "Container Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Container Graphic", 
+                  "value": "Ethereum"
+                },
+                {
+                  "trait_type": "Background Color", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Volume", 
+                  "value": 100
+                }, 
+                {
+                  "trait_type": "Flow Rate", 
+                  "value": 50
+                }, 
+                {
+                  "display_type": "boost_number", 
+                  "trait_type": "Splatter", 
+                  "value": 69
+                }, 
+                {
+                  "display_type": "boost_percentage", 
+                  "trait_type": "Flavor Increase", 
+                  "value": 99
+                }
+            ]
         },
         {
             "id": 1,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
+            "description": "Pumpin' Pickles 4 The Man",
+            "external_url": "https://www.youtube.com/watch?v=MYg3CFVAyP4",
+            "image": "https://media.discordapp.net/attachments/933759102876794970/959411431437135962/first_logo_transparent.png",
+            "name": "Pumpin' 4 The Man - 1",
+            "background_color": "00b300",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Pickles"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Container Size", 
+                  "value": "Big"
+                },
+                {
+                  "trait_type": "Container Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Container Graphic", 
+                  "value": "Ethereum"
+                },
+                {
+                  "trait_type": "Background Color", 
+                  "value": "Firehouse Subs Pickle Green"
+                },
+                {
+                  "trait_type": "Volume", 
+                  "value": 100
+                }, 
+                {
+                  "trait_type": "Flow Rate", 
+                  "value": 50
+                }, 
+                {
+                  "display_type": "boost_number", 
+                  "trait_type": "Splatter", 
+                  "value": 69
+                }, 
+                {
+                  "display_type": "boost_percentage", 
+                  "trait_type": "Flavor Increase", 
+                  "value": 99
+                }
+            ]
         },
         {
             "id": 2,
-            "description": "My NFT",
-            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
+            "description": "Pumpin' Sriracha 4 The Man",
+            "external_url": "https://www.youtube.com/watch?v=MYg3CFVAyP4",
+            "image": "https://media.discordapp.net/attachments/933759102876794970/959411431437135962/first_logo_transparent.png",
+            "name": "Pumpin' 4 The Man - 2",
+            "background_color": "FF0000",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Sriracha"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Container Size", 
+                  "value": "Big"
+                },
+                {
+                  "trait_type": "Container Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Container Graphic", 
+                  "value": "Ethereum"
+                },
+                {
+                  "trait_type": "Background Color", 
+                  "value": "Sriracha Red"
+                },
+                {
+                  "trait_type": "Volume", 
+                  "value": 100
+                }, 
+                {
+                  "trait_type": "Flow Rate", 
+                  "value": 50
+                }, 
+                {
+                  "display_type": "boost_number", 
+                  "trait_type": "Splatter", 
+                  "value": 69
+                }, 
+                {
+                  "display_type": "boost_percentage", 
+                  "trait_type": "Flavor Increase", 
+                  "value": 99
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "description": "Pumpin' Gravy 4 The Man",
+            "external_url": "https://www.youtube.com/watch?v=MYg3CFVAyP4",
+            "image": "https://media.discordapp.net/attachments/933759102876794970/959411431437135962/first_logo_transparent.png",
+            "name": "Pumpin' 4 The Man - 3",
+            "background_color": "808080",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Gravy"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Container Size", 
+                  "value": "Big"
+                },
+                {
+                  "trait_type": "Container Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Container Graphic", 
+                  "value": "Ethereum"
+                },
+                {
+                  "trait_type": "Background Color", 
+                  "value": "GRAVY GRAY"
+                },
+                {
+                  "trait_type": "Volume", 
+                  "value": 100
+                }, 
+                {
+                  "trait_type": "Flow Rate", 
+                  "value": 50
+                }, 
+                {
+                  "display_type": "boost_number", 
+                  "trait_type": "Splatter", 
+                  "value": 69
+                }, 
+                {
+                  "display_type": "boost_percentage", 
+                  "trait_type": "Flavor Increase", 
+                  "value": 99
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "description": "Pumpin' Beer 4 The Man",
+            "external_url": "https://www.youtube.com/watch?v=MYg3CFVAyP4",
+            "image": "https://media.discordapp.net/attachments/933759102876794970/959411431437135962/first_logo_transparent.png",
+            "name": "Pumpin' 4 The Man - 4",
+            "background_color": "ffd700",
+            "attributes": [
+                {
+                  "trait_type": "What is inside", 
+                  "value": "Beer"
+                }, 
+                {
+                  "trait_type": "Pump Size", 
+                  "value": "Big"
+                }, 
+                {
+                  "trait_type": "Pump Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Pump Graphic", 
+                  "value": "None"
+                },
+                {
+                  "trait_type": "Container Size", 
+                  "value": "Big"
+                },
+                {
+                  "trait_type": "Container Color", 
+                  "value": "White"
+                },
+                {
+                  "trait_type": "Container Graphic", 
+                  "value": "Ethereum"
+                },
+                {
+                  "trait_type": "Background Color", 
+                  "value": "Golden Beer"
+                },
+                {
+                  "trait_type": "Volume", 
+                  "value": 100
+                }, 
+                {
+                  "trait_type": "Flow Rate", 
+                  "value": 50
+                }, 
+                {
+                  "display_type": "boost_number", 
+                  "trait_type": "Splatter", 
+                  "value": 69
+                }, 
+                {
+                  "display_type": "boost_percentage", 
+                  "trait_type": "Flavor Increase", 
+                  "value": 99
+                }
+            ]
         }
     ]
 }
